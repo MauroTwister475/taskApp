@@ -33,7 +33,7 @@ export default function ListTasks() {
     }
 
     getAllTasks();
-  }, [isLoading]);
+  }, [tasks]);
 
   return (
     <View className="flex-1 items-center justify-center px-4">

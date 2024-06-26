@@ -10,7 +10,6 @@ import {
   GraduationCap,
   Handshake,
   HomeIcon,
-  Music,
   Video,
   Flag,
 } from "lucide-react-native";

@@ -19,8 +19,8 @@ export function ButtonBack() {
       style={{
         alignItems: "center",
         justifyContent: "center",
-        paddingHorizontal: 14,
-        paddingVertical: 8,
+        paddingHorizontal: 18,
+        paddingVertical: 12,
         borderRadius: 4,
       }}
       activeOpacity={0.8}
