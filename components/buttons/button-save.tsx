@@ -12,10 +12,10 @@ import { useResetAllData } from "@/utils/ResetAllData";
 import { useRouter } from "expo-router";
 
 export function ButtonSave() {
-  const { toast } = useToast();
   const router = useRouter();
-  const { onSetIsOpen } = useModalStore();
   const resetAllData = useResetAllData();
+  const { onSetIsOpen } = useModalStore();
+  const { toast } = useToast();
 
   const { currentCategory } = useSelectedCategory();
   const { currentPriotity } = useSelectedPriority();

@@ -1,4 +1,4 @@
-import { TouchableOpacity, View } from "react-native";
+import { TouchableOpacity, View, Modal, Switch } from "react-native";
 import { useModalStore } from "@/stores/useModalStore";
 import { Eraser } from "lucide-react-native";
 
