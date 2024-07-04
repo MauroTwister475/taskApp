@@ -4,7 +4,7 @@
 
 ## Imagens após a conclusão do projecto
 
-   <div style="display:flex; flex-wrap: wrap; gap: 30px; margin-top: 50px;">
+   <div style="display:flex; flex-wrap: wrap; gap: 12px; justify-content: space-evenly; margin-top: 50px;">
      <img src="./assets/screens/1.png" width="300" heigth="100"> 
      <img src="./assets/screens/2.png" width="300" heigth="100">
      <img src="./assets/screens/3.png" width="300" heigth="100">
